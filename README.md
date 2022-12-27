@@ -1,2 +1,2 @@
 # Frontend-Online-Store
-Project developed in conjunct with @gabrielraeder during the Trybe course
+The goal of this project is to create an frontend e-commerce application using React
