@@ -16,7 +16,7 @@ Clone this repository
     
 Install the dependencies
 
-    cd Frontend-Online-Store && npm install
+    cd frontend-online-store && npm install
     
 Run the application
 
